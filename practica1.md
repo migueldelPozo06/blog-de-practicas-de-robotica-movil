@@ -1,3 +1,5 @@
+
+
 # Practica 1: Robot aspiradora de baja gama
 
 ## Objetivo
@@ -23,7 +25,9 @@ Para implementar la siguiente secuencia se ha utilizado una maquina de estados, 
 
 ## Demostración
 
+[DemoPractica1_1.webm](https://github.com/user-attachments/assets/3600bf16-f48f-40c0-8237-cd1c948b4576)
 
+[DemoPractica1_2.webm](https://github.com/user-attachments/assets/7a42cf4c-caa8-4309-8cc4-c5ee56c36d9d)
 
 ## Problemas de la practica y soluciones
 
