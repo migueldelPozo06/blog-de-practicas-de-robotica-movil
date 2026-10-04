@@ -1,6 +1,6 @@
 
 
-# Practica 1: Robot aspiradora de baja gama
+# Practica 1: Navegación pseudoaleatoria con FSM en una aspiradora de gama baja
 
 ## Objetivo
 
