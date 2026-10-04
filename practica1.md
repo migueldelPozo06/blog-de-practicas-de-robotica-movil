@@ -40,3 +40,4 @@ Durante el desarrollo de la practica han surgido diversos problemas, para los cu
 3. Un problema que ha sido complicado solucionar ha sido el patrón que el robot debe seguir, se han hecho pruebas con un algoritmo que hace que el robot avance y cuando se choca gira y otro que hace lo mismo pero en vez de ir en linea recta gira en espiral, la solución ha sido unir los dos patrones y activar un patrón u otro dependiendo del caso que se de en ese momento. 
 
 ## Conclusiones
+En conclusion en este trabajo se ha programado un robot aspirador de gama baja, mejorando el algoritmo añadiendo funcionalidades, hasta encontrar unas constantes y unos algoritmos capaces de limpiar la mayor parte de la habitación posible.
