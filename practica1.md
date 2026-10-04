@@ -25,9 +25,11 @@ Para implementar la siguiente secuencia se ha utilizado una maquina de estados, 
 
 ## Demostración
 
-[DemoPractica1_1.webm](https://github.com/user-attachments/assets/3600bf16-f48f-40c0-8237-cd1c948b4576)
+[demo_practica1_1.webm](https://github.com/user-attachments/assets/6dda0386-936f-43c4-a616-b6483b090156)
 
-[DemoPractica1_2.webm](https://github.com/user-attachments/assets/7a42cf4c-caa8-4309-8cc4-c5ee56c36d9d)
+[demo_practica1_2.webm](https://github.com/user-attachments/assets/d5e0a6ba-d02f-4f94-a0d7-fc43bd7c1853)
+
+[demo_practica1_3.webm](https://github.com/user-attachments/assets/429e612f-19b5-413d-ad23-339ae3210dbc)
 
 ## Problemas de la practica y soluciones
 
@@ -40,4 +42,4 @@ Durante el desarrollo de la practica han surgido diversos problemas, para los cu
 3. Un problema que ha sido complicado solucionar ha sido el patrón que el robot debe seguir, se han hecho pruebas con un algoritmo que hace que el robot avance y cuando se choca gira y otro que hace lo mismo pero en vez de ir en linea recta gira en espiral, la solución ha sido unir los dos patrones y activar un patrón u otro dependiendo del caso que se de en ese momento. 
 
 ## Conclusiones
-En conclusion en este trabajo se ha programado un robot aspirador de gama baja, mejorando el algoritmo añadiendo funcionalidades, hasta encontrar unas constantes y unos algoritmos capaces de limpiar la mayor parte de la habitación posible.
+En conclusion en este trabajo se ha programado un robot aspirador de gama baja, mejorando el algoritmo añadiendo funcionalidades, hasta encontrar unas constantes y unos algoritmos capaces de limpiar la mayor parte de la habitación posible. En la demo grabada el robot llega hasta el 54,76%, pero por probabilidad el robot deberia limpiar mas zona de la habitacion pero no se puede saber el tiempo que tardaria en completar la misión.
