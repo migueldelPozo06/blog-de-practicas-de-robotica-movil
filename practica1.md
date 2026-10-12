@@ -25,11 +25,11 @@ Para implementar la siguiente secuencia se ha utilizado una maquina de estados, 
 
 ## Demostración
 
-[demo_practica1_1.webm](https://github.com/user-attachments/assets/6dda0386-936f-43c4-a616-b6483b090156)
+[![Demo Practica 1 parte 1]()](https://youtu.be/KZJq2WyfIUg)  
 
-[demo_practica1_2.webm](https://github.com/user-attachments/assets/d5e0a6ba-d02f-4f94-a0d7-fc43bd7c1853)
+[![Demo Practica 1 parte 2]()](https://youtu.be/37ZN-0y3YXo)
 
-[demo_practica1_3.webm](https://github.com/user-attachments/assets/429e612f-19b5-413d-ad23-339ae3210dbc)
+[![Demo Practica 1 parte 3]()]()
 
 ## Problemas de la practica y soluciones
 
