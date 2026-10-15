@@ -24,11 +24,8 @@ La solución propuesta para realizar este ejercicio es que el robot siga la sigu
 Para implementar la siguiente secuencia se ha utilizado una maquina de estados, en cada estado se ha definido la lógica de programación y que condición se tiene que cumplir para pasar al siguiente estado.
 
 ## Demostración
-
 [![Demo Practica 1 parte 1]()](https://youtu.be/KZJq2WyfIUg)  
-
 [![Demo Practica 1 parte 2]()](https://youtu.be/37ZN-0y3YXo)
-
 [![Demo Practica 1 parte 3]()](https://youtu.be/2sFsKHSiz9U)
 
 ## Problemas de la practica y soluciones
