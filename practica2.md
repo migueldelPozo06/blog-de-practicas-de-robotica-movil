@@ -16,7 +16,7 @@
 [![Nurburgrind Circuit]()](https://youtube.com/shorts/uHb-ZOkOMrI?feature=share)  
 [![Montreal Circuit]()](https://youtube.com/shorts/2ynZYwBt_B4?feature=share) 
 
-* Control Ackermann:
+* Control Ackermann:  
 [![Simple Circuit]()](https://youtu.be/nVaIoJ5mg80)    
 
 ## Problemas de la practica y soluciones
