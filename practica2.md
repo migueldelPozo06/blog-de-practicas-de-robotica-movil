@@ -36,10 +36,10 @@ Para implementar este programa se ha utilizado lo siguiente:
 
 ## Demostración
 * Control normal:  
-[![Simple Circuit]()](https://youtube.com/shorts/8gnfV_YpA_g?feature=share)  
-[![Montmelo Circuit]()](https://youtube.com/shorts/NaJGEC5E0pM?feature=share)  
-[![Nurburgrind Circuit]()](https://youtube.com/shorts/uHb-ZOkOMrI?feature=share)  
-[![Montreal Circuit]()](https://youtube.com/shorts/2ynZYwBt_B4?feature=share) 
+[![Simple Circuit]()](https://youtu.be/H3LDonc8nic)  
+[![Montmelo Circuit]()](https://youtu.be/S2EAXCpiIYM)  
+[![Nurburgrind Circuit]()](https://youtu.be/kI46yIZeVdg)  
+[![Montreal Circuit]()](https://youtu.be/uVHuFxIPGMs) 
 
 * Control Ackermann:  
 [![Simple Circuit]()](https://youtu.be/nVaIoJ5mg80)    
