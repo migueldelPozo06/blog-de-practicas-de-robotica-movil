@@ -7,7 +7,7 @@ EL objetivo de esta practica es navegar con un coche de formula 1 por un circuit
 En esta practica se plantea el problema de implementar en python una aproximación del algoritmo VFF (Virtual Force Field), que consiste en tener un vector atractivo al waypoint siguiente y un vector repulsivo desde el obstáculo a esquivar, posteriormente se suman estos vectores obteniendo un vector resultante que el coche debe seguir, ademas se tienen que eliminar los mínimos locales que presenta este algoritmo, que consiste en recuperarse del caso en el que los dos vectores tienen mismo modulo y mismo angulo con diferencia pi radianes resultando en que el vector resultante vale 0 y quedándose el coche parado en el sitio.
 
 * Esquema del algoritmo VFF
-<img width="852" height="493" alt="imagen" src="https://github.com/user-attachments/assets/282d9b9c-43a3-4f34-a7b0-ba1bdaa12862" />
+<img width="855" height="492" alt="imagen" src="https://github.com/user-attachments/assets/b63ce88a-a5eb-410b-8418-2f45146f4e6f" />
 
 
 ## Solución propuesta
