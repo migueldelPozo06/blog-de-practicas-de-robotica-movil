@@ -9,10 +9,16 @@ El problema planteado es que el coche tiene que seguir una linea roja pintada en
 ## Solución propuesta
 Para solucionar el problema se ha implementado un control pid que corrige el error que hay desde el valor deseado (punto medio de la imagen) y el valor obtenido (valor que obtenemos del punto medio de la linea roja). 
 
-Control normal:
+* Esquema del sistema de control programado
+<img width="855" height="233" alt="imagen" src="https://github.com/user-attachments/assets/d0b65cb4-3334-4a69-8cfd-6589cd5894de" />  
+
+
+* Control normal:
+
 Para este modelo se han implementado dos pid, uno para la dirección (w) y otro para la velocidad lineal (v), para configurar los dos pid, se ha ido probando el coche en el circuito principal hasta conseguir un control que haga que el coche no oscile (modificando la constante proporcional (kp), y cambiando la constante derivativa (kd) para aumentar la amortiguación), pero manteniendo la constante proporcional (kp), de manera que la dirección no sea demasiado brusca y se salga de la linea.
 
-Control Ackermann:
+* Control Ackermann:  
+
 Para este modelo se ha implementado otro sistema, en este caso solo se ha programado un solo pid para la dirección (w), y para reducir la velocidad lineal (v) en las rectas se ha aplicado la siguiente formula:     
 
 **Velocidad lineal = Velocidad máxima − K_v · e**; siendo el error(e) = punto de la imagen – punto medio de la imagen  
