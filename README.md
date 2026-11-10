@@ -7,3 +7,5 @@
 * [Practica 2 Control Visual con PID de un Fórmula1](practica2.md)
 
 * [Practica 3 Navegación local esquivando obstáculos con algoritmo VFF](practica3.md)
+
+* [Practica 4 Navegación global con algoritmo GPP, plan como recurso](practica4.md)
