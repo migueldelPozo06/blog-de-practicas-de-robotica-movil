@@ -16,7 +16,7 @@ Esquema aproximado acerca de la generación de estos mapas:
 2. Después de generar el mapa mencionado anteriormente, ya se puede guiar el vehiculo hasta el destino, para ello lo que se hace es seleccionar en un rango el punto con el menor valor, de esta manera podemos generar un vector atractivo desde el vehiculo hasta ese punto de menor valor, después de llegar a ese punto se selecciona otro punto y así hasta que se llega al waypoint seleccionado, el coche evita obstáculos ya que cuanto mas cerca de las paredes mas valor tiene ese punto por tanto el coche siempre tiende a seleccionar los puntos que mas alejados estén de las paredes u obstáculos.
 
 ## Demostración
-[![Demo Practica 4]()](https://youtu.be/ANnyiZcPF90)
+[![Demo Practica 4]()](https://youtu.be/U77MkJKDsOk)
 
 ## Problemas de la practica y soluciones
 1. Para representar el mapa en el WebGUI, se necesitaba normalizar los datos para que estuvieran entre 0 y 255, al principio solo se imprimían todos los valores pero cuando imprimes un valor mayor a 255 se ve de color blanco sin ningún, bajando la calidad del mapa al dejar de dar información acerca de la expansión del gradiente en el mapa, para ello lo que se hace es normalizar los datos según se expande el gradiente y el mapa se va adaptando según el numero de nodos expandidos.
